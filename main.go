@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println(solutions.MultiplesOfThreeAndFiveBelow(1000))
 	fmt.Println(solutions.SumEvenFibonaccis(4000000))
+	fmt.Println(solutions.LargestPrimeFactor(600851475143))
 }
